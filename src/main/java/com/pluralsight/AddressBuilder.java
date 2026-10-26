@@ -70,8 +70,8 @@ public class AddressBuilder {
 
         //display
 
-        System.out.println("\n--- Customer Information:\n");
-                System.out.println(finalAddress);
+        System.out.println("\n--- Customer Information---");
+        System.out.println(finalAddress);
 
         scnr.close();
 
